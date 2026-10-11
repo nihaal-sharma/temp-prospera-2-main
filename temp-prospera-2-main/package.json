@@ -1,0 +1,7 @@
+{
+  "name": "prospera",
+  "version": "1.0.0",
+  "description": "AI-Powered Business Intelligence & Decision Support Platform",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
